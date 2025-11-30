@@ -1,0 +1,17 @@
+0.5" aluminum stock sheet - for cutting out parts
+5x solid V-slot wheels with bearings
+2x 625RR bearings
+~15x 10x5x1 mm washers
+2x M5x45mm bolts (idler attachment)
+2x M6x25mm bolts (height adjustment)
+2x M5x25mm bolts (router attachment)
+1x M5x30mm bolt (cutter attachment)
+2x M5x20mm bolts (attachment to cutting frame)
+1x M5x15mm bolt (drive wheel to cutting frame)
+3x M5 nuts
+2mm textured belting, get plenty, 10' or so (https://www.mcmaster.com/products/8112k31/)
+1x printed cutter
+1x printed flex drive
+1x TDHB12807505 https://www.carbidedepot.com/Product/Index/6957243?CategoryId=6115
+1x small screw to hold above cutter. I don't know exactly which one I used but it was a coarse thread torx head. I just had it sitting around.
+
